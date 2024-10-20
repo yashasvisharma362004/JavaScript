@@ -13,7 +13,7 @@ console.log(3+3);
  // bigint
  // string => " "
  // boolean => true/False
- // null => standalone value  means 0 empyu space
+ // null => standalone value  means 0 empty space
  // undefined =>
 // symbol => unique
  

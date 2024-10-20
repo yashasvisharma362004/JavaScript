@@ -21,4 +21,18 @@ const anotherId = symbol('123');
 
 console.log(id === anotherId);
 
+const bigNumber =3456789n;
+
+//Arrays
+const heroes = ["shaktiman", "pikachu","Modi"];
+
+let myObj = {
+    name: "yashasvi",
+    age: 20;
+
+}
+
+// how we declare functions
+
+
 
